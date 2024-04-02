@@ -1,0 +1,29 @@
+body {
+    background-color: yellow; /* Change the color as desired */
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+h2 {
+    color: navy;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+li {
+    font-family: verdana;
+    font-size: 25px;
+}
+
+img {
+    width: 50%;
+    height: auto; /* Use 'auto' for maintaining aspect ratio */
+}
+</style>
